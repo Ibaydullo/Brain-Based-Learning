@@ -1,0 +1,233 @@
+@media (min-width:1100px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+
+@media (max-width:1100px) {
+    .container {
+        max-width: 540px;
+    }
+}
+
+.color_1 {
+    color: black;
+}
+
+
+.color_1 :active {
+    color: rgb(220, 111, 16);
+}
+
+.color_1 :hover {
+    color: rgb(234, 106, 7);
+}
+
+
+.section_1 {
+    height: auto;
+    width: 100%;
+}
+
+.u-svg-content {
+    color: #f66f24;
+}
+
+
+@media (min-width:1100px) {
+    .tolqin_img {
+        width: 18rem;
+        position: absolute;
+        margin-left: 2%;
+        margin-top: 15rem;
+    }
+}
+
+@media (min-width:1100px) {
+    .tolqin_img_2 {
+        width: 12rem;
+        position: absolute;
+        margin-left: 55rem;
+        margin-top: 15rem;
+    }
+}
+
+
+@media (max-width:1100px) {
+    .tolqin_img {
+        width: 8rem;
+        position: absolute;
+        margin-left: 1rem;
+        margin-top: 2rem;
+    }
+}
+
+@media (max-width:1100px) {
+    .tolqin_img_2 {
+        width: 5rem;
+        position: absolute;
+        margin-left: 20rem;
+        margin-top: 10rem;
+    }
+}
+
+.img_0 img {
+    border-radius: 50%;
+    width: 75%;
+    margin-top: 15%;
+}
+
+@media (min-width:1100px) {
+    .img_0 {
+        
+    }
+}
+
+
+.col_color_white {
+    background-color: white;
+}
+
+
+
+
+
+.Transformative {
+    color: aliceblue;
+}
+
+.aylana_iconka {
+    width: 8rem;
+    height: 8rem;
+    background-color: #f66f24;
+    border-radius: 50%;
+    margin-left: 10%;
+    margin-top: 8%;
+    color: white;
+}
+
+.card_styl {
+    border-radius: 0%;
+}
+
+
+
+.card_styl_2 {
+    background-color: #f66f24;
+    border-color: #f66f24;
+    color: white;
+
+}
+
+
+.card_styl_2 p {
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.card_styl_text {
+    font-weight: 600;
+}
+
+.card_styl_boton {
+    width: 12rem;
+    border-radius: 15rem;
+    background-color: #f66f24;
+    border-color: white;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+
+.card_styl_boton:hover {
+    background-color: white;
+    border-color: white;
+    color: #f66f24;
+}
+
+
+.yetinchi_section_1 img {
+    width: 98%;
+}
+
+.yetinchi_section_2 {
+    color: white;
+}
+
+.yetinchi_section_h2 {
+    font-size: 2.2rem;
+    font-weight: 600;
+}
+
+.yetinchi_section_h3 {
+    font-size: 1.6rem;
+}
+
+
+.yetinchi_section_p {
+    font-size: 1.2rem;
+}
+
+
+
+.freepik {
+    color: white;
+}
+
+.sakiznchi_section_1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #f66f24;
+}
+
+
+.sakiznchi_section_01 {
+    justify-content: center;
+}
+
+
+.article_01 {
+    width: 7rem;
+    height: 7rem;
+    background-color: #f66f24;
+    border-radius: 50%;
+    color: white;
+    margin-left: 30%;
+}
+
+
+@media (max-width:1100px) {
+    .article_01 {
+        margin-left: 8.8rem;
+    }
+}
+
+
+.article_01 p {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-top: -1rem;
+    
+}
+
+.sakiznchi_section_01_rasim img {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+
+}
+
+.sakiznchi_section_01_p {
+    font-size: 1.21rem;
+    color: #999999;
+}
+
+.sakiznchi_section_01_nam {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.CALL_US {
+    color: #f66f24;
+}
