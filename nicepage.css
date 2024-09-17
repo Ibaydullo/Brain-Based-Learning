@@ -230,4 +230,33 @@
 
 .CALL_US {
     color: #f66f24;
+    font-size: 1.4rem;
+    font-weight: 700;
 }
+
+
+.raqamlar {
+    font-size: 1.2rem;
+}
+
+
+.call_us_quti {
+    border-color: #f66f24;
+    border-color: #f66f24;
+    border: 0.3rem solid #f66f24;
+    background-color: #f2f2f2;
+}
+
+
+.SUBMIT {
+    background-color: #f66f24; 
+    border-color: #f66f24; 
+    border-radius: 5REM;
+    height: 3rem;
+}
+
+.SUBMIT:hover {
+    background-color: black;
+}
+
+
